@@ -10,3 +10,7 @@
  
  ![](../images/planet-data.png)
 ---
+ ### Invoice table
+ 
+ ![](../images/invoice-table.png)
+---
